@@ -35,8 +35,8 @@ The project is organized as follows:
     * Save the downloaded file in the same directory as your Jupyter Notebook or in a `data/` subdirectory.
 
 3.  **Running the Analysis:**
-    * Navigate to the `notebooks/` directory (or the directory where you saved the notebook).
-    * Open the `covid_data_tracker.ipynb` file using Jupyter Notebook.
+    
+    * Open the `covid-analysis.ipynb` file using Jupyter Notebook.
     * Follow the steps within the notebook to load, clean, analyze, and visualize the data.
     * The notebook contains code cells for performing the analysis and markdown cells for explanations and insights.
 
